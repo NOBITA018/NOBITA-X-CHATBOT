@@ -56,7 +56,7 @@
     "UPDATE_CHANNEL": {
       "description": "Name of the update channel",
       "required": true,
-      "value": "JARVIS_V_SUPPORT"
+      "value": "NOBITA_PROFISEY"
     }
   }
 }
